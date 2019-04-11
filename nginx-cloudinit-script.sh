@@ -1,3 +1,4 @@
+#I have Tested this script on ubuntu 16.04
 #!/bin/bash
 sudo apt-get update
 sudo add-apt-repository ppa:ondrej/php -y
